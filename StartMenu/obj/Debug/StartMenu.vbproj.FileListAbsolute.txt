@@ -1,0 +1,12 @@
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\bin\Debug\StartMenu.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\bin\Debug\StartMenu.exe
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\bin\Debug\StartMenu.pdb
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\bin\Debug\StartMenu.xml
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.exe
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.xml
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.pdb
+c:\users\owner\documents\visual studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.StartMenuMain.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StartMenu\StartMenu\bin\Debug\StartMenuButton.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\StartMenu\StartMenu\obj\Debug\StartMenu.vbprojResolveAssemblyReference.cache
